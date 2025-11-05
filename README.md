@@ -1,4 +1,4 @@
-# 🐍 API de E-commerce com Flask — Curso Rocketseat 🚀
+# 🐍 API de E-commerce com Flask — Curso Rocketseat
 
 Este projeto foi desenvolvido durante o **curso de Python com Flask da [Rocketseat](https://www.rocketseat.com.br/)**.  
 O objetivo é criar uma **API completa** que simula um sistema de e-commerce, aplicando conceitos fundamentais de desenvolvimento web com Flask.
